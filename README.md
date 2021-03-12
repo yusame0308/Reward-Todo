@@ -1,6 +1,6 @@
 # reward_todo
 
-A new Flutter application.
+Todo app made with Flutter
 
 ## Getting Started
 
