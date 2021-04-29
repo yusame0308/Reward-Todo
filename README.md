@@ -1,3 +1,3 @@
 # reward_todo
 
-Todo app made with Flutter
+タスクを完了すると貰えるポイントを貯めてご褒美ルーレットを回すことができるToDoアプリ
